@@ -2,7 +2,7 @@ This code book summarizes the resulting data fields in tidy_data.txt.
 
 ## Identifiers
 - Subject - The ID of the test subject
-- ActivityName - The type of activity performed when the corresponding measurements were taken
+- ActivityName - The type of activity performed when the corresponding measurements were taken. There are namely 6 types of activities - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 ## Measurements
 - timeDomainBodyAccelerometerMeanX 
