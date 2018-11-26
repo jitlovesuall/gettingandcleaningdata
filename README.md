@@ -5,15 +5,15 @@ The initial experiment was carried out with a group of 30 volunteers within an a
 
 Then, through the R script, "run_analysis.R", following were performed to create tidy data set (tidy_data.txt):
 
-- a. Step 1 - Both training and test data sets were merged
+- Step 1 - Both training and test data sets were merged
 
-- b. Step 2 - Only columns related to mean and standard deviations were kept
+- Step 2 - Only columns related to mean and standard deviations were kept
 
-- c. Step 3 - Proper activity names were assigned to the merged data set
+- Step 3 - Proper activity names were assigned to the merged data set
 
-- d. Step 4 - The merged dataset was renamed with appropriate column descriptions
+- Step 4 - The merged dataset was renamed with appropriate column descriptions
 
-- e. Step 5 - A new data set was created from the merged data set having the averge of each variable grouped by subject / volunteer and activity name. Finally, this new data set was outputted as "tidy_data.txt". 
+- Step 5 - A new data set was created from the merged data set having the averge of each variable grouped by subject / volunteer and activity name. Finally, this new data set was outputted as "tidy_data.txt". 
 
 
 Following files are included for in-depth analysis:
