@@ -1,13 +1,6 @@
 # gettingandcleaningdata
 Repo to submit assignment on getting and cleaning data course project
 
-==================================================================
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
-==================================================================
-Avijit PalChowdhury
-Getting and Cleaning Data Course Project Week 4
-==================================================================
 
 This is a course project data set that has been created known as "tidy_data.txt" through the R code "run_analysis.R". 
 
